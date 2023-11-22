@@ -1,0 +1,28 @@
+body {
+    background-image: url("create-a-qr-code.png");
+
+    color: #333;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    margin-top: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.form-container{
+    background-color: rgb(234, 196, 141);
+    border-radius: 1em 1em;
+    padding: 2em;
+}
+button{
+
+}
+button:hover{
+    background-color: rgb(66, 66, 249);
+    color: aliceblue;
+}
+h1{
+    color: blanchedalmond;
+}
